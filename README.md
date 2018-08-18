@@ -1,5 +1,11 @@
 # 基于微信弹窗组件
 ## 使用方法：组件内引入或者在main.js全局注册组件
+```javascript
+import Dialog from "../common/Dialog"
+  components: {
+      Dialog
+  },
+```
 * 浏览地址，请在手机模式查看 https://qdlyh.github.io/dialog/index.html#/<br/>
 
 * 提示框
